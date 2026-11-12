@@ -87,6 +87,22 @@ converted to TensorFlow Lite.
 </td>
 <td width="50%" valign="top">
 
+### 🎙️ [AI-Voice-Assistant-IoT](https://github.com/BahaBakan/AI-Voice-Assistant-IoT)
+
+A portable voice assistant on an ESP32 — speech in, answer out, in a device
+you can carry.
+
+Built with a friend on an open-source base. BURAYI DOLDUR: senin yazdığın
+kısım neydi?
+
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)
+
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
+
 ### 🔧 Previously
 
 **ISERA** — multi-stream video analytics on edge hardware: GStreamer and
