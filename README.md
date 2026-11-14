@@ -92,8 +92,7 @@ converted to TensorFlow Lite.
 A portable voice assistant on an ESP32 — speech in, answer out, in a device
 you can carry.
 
-Built with a friend on an open-source base. BURAYI DOLDUR: senin yazdığın
-kısım neydi?
+Built with a friend on an open-source base.
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)
